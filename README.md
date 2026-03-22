@@ -60,16 +60,16 @@ Pydantic
 
 ▶️ How to Run
 
-1. Clone the repository
- https://github.com/gvd6714-ctrl/fastapi_Car_Rental_Service
+1. Clone the repository :
+https://github.com/gvd6714-ctrl/fastapi_Car_Rental_Service
 
-2. Install dependencies
+2. Install dependencies :
 pip install -r requirements.txt
 
-3. Run server
+3. Run server :
 uvicorn main:app --reload
 
-4. Open in browser
+4. Open in browser :
 http://127.0.0.1:8000//docs
 
 ----
