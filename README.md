@@ -61,7 +61,7 @@ Pydantic
 ▶️ How to Run
 
 1. Clone the repository
-https://github.com/gvd6714-ctrl/Car_Rental_Service
+ https://github.com/gvd6714-ctrl/fastapi_Car_Rental_Service
 
 2. Install dependencies
 pip install -r requirements.txt
